@@ -48,5 +48,5 @@ Este projeto coleta dados de vídeos de um canal do YouTube utilizando a bibliot
 - O script identifica automaticamente o vídeo mais visto e o menos visto no momento da execução.
 
 ## 🎥 Demonstração
+![Execução da ferramenta](https://raw.githubusercontent.com/VilRL/youtool_analise/main/Gif/execucao.gif)
 
-![Demonstração do script em execução]()
