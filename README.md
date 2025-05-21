@@ -2,6 +2,9 @@
 
 Este projeto coleta dados de vídeos de um canal do YouTube utilizando a biblioteca `youtool` e armazena as informações em um banco de dados MongoDB. Ele também identifica o vídeo mais visto e o menos visto do canal.
 
+# Integrantes
+- Vitor Luiz Rodrigues de Lima 6º BD
+- Davi Gusmão Nascimento 6º BD
 ## 🧰 Tecnologias Utilizadas
 
 - Python 3
